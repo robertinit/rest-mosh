@@ -1,0 +1,26 @@
+{
+  "name": "rest-mosh",
+  "version": "1.0.0",
+  "description": "Learning about REST with Mosh",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "nodemon": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robertinit/rest-mosh.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robertinit/rest-mosh/issues"
+  },
+  "homepage": "https://github.com/robertinit/rest-mosh#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "joi": "^14.3.1",
+    "nodemon": "^1.19.4"
+  }
+}
